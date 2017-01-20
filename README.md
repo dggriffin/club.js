@@ -1,8 +1,8 @@
 # club.js
 A collection of JavaScript presentations, frameworks, and learning material!
-<p align="center">
+
  <img src="http://i.imgur.com/dyjowbK.png">
-</p>
+
 
 | Topic(s)      | Presenter     | Resources  | Date |
 | ------------- |:-------------:| -----:| ------|
