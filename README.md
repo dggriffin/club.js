@@ -1,8 +1,7 @@
+<p align="center">
  <img src="http://i.imgur.com/dyjowbK.png">
-
-
-A collection of JavaScript presentations, frameworks, and learning material!
-
+ A collection of JavaScript presentations, frameworks, and learning material!
+</p>
 #Past Meetings:
 
 | Topic(s)      | Presenter     | Resources  | Date |
