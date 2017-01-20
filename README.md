@@ -1,8 +1,9 @@
-# club.js
-A collection of JavaScript presentations, frameworks, and learning material!
-
  <img src="http://i.imgur.com/dyjowbK.png">
 
+
+A collection of JavaScript presentations, frameworks, and learning material!
+
+#Past Meetings:
 
 | Topic(s)      | Presenter     | Resources  | Date |
 | ------------- |:-------------:| -----:| ------|
