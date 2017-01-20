@@ -22,7 +22,7 @@
 | **What I [Christina] learned about the 'Future of Web Apps'**     | christinakayastha | https://futureinsights-1.wistia.com/medias/1luwvy5dtq, http://www.slideshare.net/joshclark/magical-ux-and-the-internet-of-things | 12/4/2015 | 
 | **Google and Udacity's Senior Web Dev Course**    | dggriffin chriskwan | 	http://googledevelopers.blogspot.com/2015/11/introducing-senior-web-developer.html, https://www.udacity.com/course/senior-web-developer--nd802 | 12/15/2015 | 
 | **D3 (Data-Driven Documents)** | rsk7 | 	http://d3js.org/, http://vis.stanford.edu/papers/d3 | 1/27/2016 | 
-|** D3 Presentations**    | rsk7 chriskwan johanna-bodnyk | 	https://github.com/johanna-bodnyk/d3movies, http://rsk7.github.io/multiples/, https://github.com/chriskwan/gmailytics, http://azure.theroadtoworlds.com/viz/ | 2/4/2016 | 
+|**D3 Presentations**    | rsk7 chriskwan johanna-bodnyk | 	https://github.com/johanna-bodnyk/d3movies, http://rsk7.github.io/multiples/, https://github.com/chriskwan/gmailytics, http://azure.theroadtoworlds.com/viz/ | 2/4/2016 | 
 | **Wildcard Week: Show & Tell Anything!** | dggriffin christinakayastha johanna-bodnyk chriskwan jenniferyan terribledev | 	https://github.com/dggriffin/firebase_demo, http://nexus.cimpress.net/2016/03/wit-global-iwd-2016/, https://github.com/tparnell8/TurboLinks.Net, https://github.com/tparnell8/HydroCarbon, https://github.com/tparnell8/Audi, https://github.com/chriskwan/pokemon-retriever | 3/17/2016	 | 
 | **Wildcard Week: Show & Tell Anything!**	 | dggriffin christinakayastha chriskwan brianchitester | http://energybeeapp.com | 4/8/2016 | 
 | **three.js** | dggriffin | http://threejs.org/ | 7/19/2016 | 
