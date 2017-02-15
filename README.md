@@ -28,3 +28,5 @@
 | **three.js** | dggriffin | http://threejs.org/ | 7/19/2016 | 
 | 	**ServiceWorker (Instant Loading: Building offline-first Progressive Web Apps - Google I/O 2016)** | christinakayastha | 	https://www.youtube.com/watch?v=cmGr0RszHc8 | 11/1/2016 | 
 | **On the Spectrum of Abstraction** | dggriffin | https://www.youtube.com/watch?v=mVVNJKv9esE | 1/20/2017 | 
+| **GitHub Pages and You** | dggriffin | N/A | 2/2/2017 | 
+
