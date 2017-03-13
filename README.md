@@ -30,3 +30,4 @@
 | **On the Spectrum of Abstraction** | dggriffin | https://www.youtube.com/watch?v=mVVNJKv9esE | 1/20/2017 | 
 | **GitHub Pages and You** | dggriffin | N/A | 2/2/2017 | 
 | **Create React App and Code Review of a React Hackathon Project** | chriskwan dggriffin | https://github.com/chriskwan/clubjs-create-react-app, https://github.com/chriskwan/clubjs-create-react-app-demo, https://github.com/chriskwan/bookstagram | 2/16/2017 | 
+| **CSS for Rapid Prototyping and Usability Testing ** | christikaes | https://www.meetup.com/Boston-CSS/events/236875691/ | 3/7/2017 | 
